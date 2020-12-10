@@ -1,34 +1,12 @@
-## Welcome to the Knowledge Collective.
- 
+<h1 align="left">Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a></h1>
 
-### Markdown
+![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=tygrysco&show_icons=true&theme=react&hide_border=true&show_icons=true&count_private=true&line_height=27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tygrysco&layout=compact&show_icons=true&theme=react)](https://github.com/tygrysco/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3 align="left">Connect with me:</h3>
+<p align='left'>
+<a href="https://twitter.com/immortalasgod"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://steamcommunity.com/id/gwynbleiddww"><img height="30" src="image/Steam_Logo.png"></a>&nbsp;&nbsp; 
+</p>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gokulsan/gokulsan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://komarev.com/ghpvc/?username=gokulsan&style=flat-square&color=blueviolet)
